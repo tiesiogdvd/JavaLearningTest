@@ -1,8 +1,5 @@
 package com.androidJavaLearning;
 
-import java.util.Random;
-import java.util.Scanner;
-
 public class Hello {
     public static void main(String[] args) {   //Write psvm and tab || run appllication from green marks on the left
        /* System.out.println("haha"); // print and println difference is one prints a to a new line, other one does not TODO: test
